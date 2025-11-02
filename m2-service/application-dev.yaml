@@ -1,0 +1,2 @@
+logging.level:
+  com.home.m2service: TRACE
