@@ -2,7 +2,7 @@ logging.level:
   com.home.m1service: TRACE
 
 cs:
-  myName: name1devYc
+  m1Name: name1devYc
   url:
     m2service: http://m2service:8080
     m3service: http://m3service:8080
